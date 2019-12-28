@@ -1,0 +1,5 @@
+F:\C# Code\Menu for Food\Entity\bin\Debug\Entity.dll
+F:\C# Code\Menu for Food\Entity\bin\Debug\Entity.pdb
+F:\C# Code\Menu for Food\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
+F:\C# Code\Menu for Food\Entity\obj\Debug\Entity.dll
+F:\C# Code\Menu for Food\Entity\obj\Debug\Entity.pdb
